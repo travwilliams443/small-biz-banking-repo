@@ -1,14 +1,14 @@
 {
-  "dev": {
+  "main": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-smallbizbankingampli-dev-0d617-authRole",
-      "UnauthRoleArn": "arn:aws:iam::694331271591:role/amplify-smallbizbankingampli-dev-0d617-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::694331271591:role/amplify-smallbizbankingampli-dev-0d617-authRole",
+      "AuthRoleName": "amplify-smallbizbankingampli-main-052d2-authRole",
+      "UnauthRoleArn": "arn:aws:iam::694331271591:role/amplify-smallbizbankingampli-main-052d2-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::694331271591:role/amplify-smallbizbankingampli-main-052d2-authRole",
       "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-smallbizbankingampli-dev-0d617-deployment",
-      "UnauthRoleName": "amplify-smallbizbankingampli-dev-0d617-unauthRole",
-      "StackName": "amplify-smallbizbankingampli-dev-0d617",
-      "StackId": "arn:aws:cloudformation:us-east-1:694331271591:stack/amplify-smallbizbankingampli-dev-0d617/c90ec050-1449-11ef-abcd-0affd220fe87",
+      "DeploymentBucketName": "amplify-smallbizbankingampli-main-052d2-deployment",
+      "UnauthRoleName": "amplify-smallbizbankingampli-main-052d2-unauthRole",
+      "StackName": "amplify-smallbizbankingampli-main-052d2",
+      "StackId": "arn:aws:cloudformation:us-east-1:694331271591:stack/amplify-smallbizbankingampli-main-052d2/9862c540-144a-11ef-a64a-0affe3624f67",
       "AmplifyAppId": "d3dkfpz5kvlm10"
     }
   }

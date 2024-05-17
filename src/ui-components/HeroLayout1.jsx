@@ -216,7 +216,7 @@ export default function HeroLayout1(props) {
           position="relative"
           padding="0px 0px 0px 0px"
           objectFit="unset"
-          src="https://d1mc30dofwdp8p.cloudfront.net/images/olivetree.png"
+          src={`${"https://d1mc30dofwdp8p.cloudfront.net"}${"/images/olivetree.png"}`}
           {...getOverrideProps(overrides, "image")}
         ></Image>
       </Flex>
